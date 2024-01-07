@@ -1,0 +1,1 @@
+#Git dont track the empty folder. So we use to make a .gitkeep file in those folder to make track of it.
